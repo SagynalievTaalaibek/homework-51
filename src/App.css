@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.circle {
+  margin: 10px;
+  border: 1px solid #0000;
+  box-shadow: 0 2px 2px #ccc;
+  padding: 20px;
+  border-radius: 50%;
+  background: #747bff;
+  color: black;
+}
