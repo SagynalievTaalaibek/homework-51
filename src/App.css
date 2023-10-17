@@ -7,6 +7,8 @@
 
 
 .circle {
+  display: inline-block;
+  width: 20px;
   margin: 10px;
   border: 1px solid #0000;
   box-shadow: 0 2px 2px #ccc;
